@@ -1,0 +1,4 @@
+From anshumman/Project
+add website /var/www/html
+RUN rm /var/www/html/aarav-agg.html
+CMD apachectl -D FOREGROUND
