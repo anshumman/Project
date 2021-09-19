@@ -1,0 +1,32 @@
+*
+{
+    margin:0;
+    padding: 0;
+
+}
+
+header {
+    background-image: url('AARAV.jpg');
+    height: 100Vh;
+       background-position: center;
+       background-repeat: no-repeat;
+}
+
+.nav-menu {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+
+}
+
+.nav-menu li {
+    display: inline-block;
+}
+
+.nav-menu li a {
+
+    color: aqua; 
+    font-size: 20px;
+    padding:5px 20px;
+    font-family: "verdana", "sans-serif";
+}
